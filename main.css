@@ -3,13 +3,16 @@ html {
     display: table;
     margin: auto;
 }
-body, p {
+body {
     color: beige;
     width: 100%;
     max-width: 800px;
     display: table-cell;
     vertical-align: middle;
     line-height: 165%;
+}
+p {
+    color: beige;
 }
 nav ul, footer ul {
     font-family: "Times New Roman", Times, serif;
