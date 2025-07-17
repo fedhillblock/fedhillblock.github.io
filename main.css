@@ -3,7 +3,7 @@ html {
     display: table;
     margin: auto;
 }
-body {
+body, p {
     color: beige;
     width: 100%;
     max-width: 800px;
