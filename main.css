@@ -13,9 +13,10 @@ body {
     line-height: 165%;
 }
 ul, li {
-    font-size: 1.4em;
+    font-size: 1.2em;
     margin-top: 0;
     margin-bottom: 1em;
+    line-height: 110%;
 }
 a {
     text-decoration: none;
