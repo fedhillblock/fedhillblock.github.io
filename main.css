@@ -11,9 +11,6 @@ body {
     vertical-align: middle;
     line-height: 165%;
 }
-p {
-    color: beige;
-}
 nav ul, footer ul {
     font-family: "Times New Roman", Times, serif;
     padding: 0px;
@@ -47,7 +44,6 @@ h1.center {
 }
 p {
     font-size: 1.4em;
-    color: black;
     margin-top: 0;
     margin-bottom: 1em;
     text-align: justify;
